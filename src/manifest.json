@@ -1,0 +1,13 @@
+{
+  "name": "Linux App",
+  "short_name": "Linux",
+  "start_url": "index.html",
+  "display": "standalone",
+  "icons": [{
+    "src": "assets/imgs/linux.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }],
+  "background_color": "#4e8ef7",
+  "theme_color": "#4e8ef7"
+}
